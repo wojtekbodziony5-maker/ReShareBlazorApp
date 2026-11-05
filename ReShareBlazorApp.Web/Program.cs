@@ -44,7 +44,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 app.UseHttpsRedirection();
-
+//comm
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseAntiforgery();
